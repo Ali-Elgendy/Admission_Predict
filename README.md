@@ -1,4 +1,4 @@
-# Admission_Predict
+# Graduate_Admission_Prediction
 
 TASK #1: UNDERSTAND THE PROBLEM STATEMENT
 
